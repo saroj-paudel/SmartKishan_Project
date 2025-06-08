@@ -62,8 +62,8 @@ body{
     align-items: center;
 }
 .box{
-   height: 300px;
-   width: 300px;
+   height: 250px;
+   width: 250px;
    background-color: black; 
    color: yellow;
     display: flex;
@@ -77,4 +77,20 @@ body{
     height: 100%;
     object-fit: cover;
     border-radius: 10px;
+}
+button{
+    background-color: black;
+    color: white;
+    margin-top: 600px;
+    text-align: left;
+    padding: 10px 20px;
+    position: relative;
+    right:180px;
+   
+}
+p{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    color: black;
 }
