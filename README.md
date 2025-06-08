@@ -10,3 +10,4 @@ Plant Disease Detection System
 5. Creating Colvolution Network
 6. Training and Building the Model
 7. Evaluate Model Accuracy and Loss
+8. Exporting Model to a File
